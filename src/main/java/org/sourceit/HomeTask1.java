@@ -9,7 +9,7 @@ public class HomeTask1 {
      * @return является ли число четным.
      */
     public static boolean isEven(int number) {
-        return (number % 2) == 0;
+        return number % 2 == 0;
     }
 
     /**
